@@ -1,2 +1,2 @@
-# myportfolio
-myportfolio has all the codes which was written for my portfolio
+# Front-End
+This repo contains all the front end codes of site
